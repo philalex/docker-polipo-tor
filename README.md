@@ -4,6 +4,7 @@ This container will start and expose a HTTP Proxy (polipo) on port 8118. Polipo 
 
 Usage
 -----
+				docker pull philalex/docker-polipo-tor
 
 Files
 -----
